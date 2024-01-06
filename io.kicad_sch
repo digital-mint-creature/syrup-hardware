@@ -1,0 +1,33 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ab1b992c-8ab7-4b92-9d81-5e4c779db011)
+
+  (paper "A4")
+
+  (title_block
+    (rev "0.1.0")
+    (company "https://twitch.tv/digimint")
+    (comment 1 "Source Location: https://github.com/digital-mint-creature/syrup-hardware")
+    (comment 3 "Licensed under CERN-OHL- v2 or any later version")
+    (comment 4 "Copyright digimint 2023")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text_box "NOTICE: Per CERN-OHL-S v2 section 4, should You produce hardware based on this source, You must visibly and securely display the Source Location on the front panel of the Soundboard or other products you make using this source.\n\nThe Source Location is:\nhttps://github.com/digital-mint-creature/syrup-hardware"
+    (at 180.34 38.1 0) (size 102.87 26.67)
+    (stroke (width 1) (type default) (color 122 0 0 1))
+    (fill (type none))
+    (effects (font (size 2 2) (thickness 0.254) bold (color 122 0 0 1)) (justify left top) (href "https://github.com/digital-mint-creature/syrup-hardware"))
+    (uuid 10ea85a1-4a1a-49d0-914c-bcb843b212df)
+  )
+  (text_box "Copyright digimint 2023.\nThis source describes Open Hardware and is licensed under the CERN-OHL-S v2 or any later version.\nYou may redistribute and modify this source and make products using it under the terms of the CERN-OHL-S v2 or any later version.\nhttps://ohwr.org/cern_ohl_s_v2.txt\n\nThis source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 or any later version for applicable conditions.\n\nSource location: https://github.com/digital-mint-creature/syrup-hardware"
+    (at 180.34 12.7 0) (size 102.87 24.13)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid fbe95815-d4fd-4fba-a28f-f053e52766ef)
+  )
+)

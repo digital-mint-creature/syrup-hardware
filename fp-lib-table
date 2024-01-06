@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "syrup")(type "KiCad")(uri "${KIPRJMOD}/syrup.pretty")(options "")(descr ""))
+)
